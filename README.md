@@ -149,9 +149,9 @@ This step bridges the gap between black-box ML predictions and real clinical usa
 
 ## 🖼️ Project Poster
 
-![Project Poster](poster.png)
+![Project Poster](Poster.jpg)
 
-> Upload the poster image as `poster.png` in the root directory of this repository for proper rendering.
+> Upload the poster image as `Poster.jpg` in the root directory of this repository for proper rendering.
 
 ---
 
