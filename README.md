@@ -176,8 +176,3 @@ Special thanks to:
 
 ---
 
-## ❓ Questions
-
-Thank you for your interest in our work.
-
-Feel free to open an issue or reach out if you have any questions or would like to collaborate.
